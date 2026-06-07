@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "devario.aternos.host",
+    "ip": "fingerfish.aternos.host:40810",
     "port": 40810,
     "version": "",
     "try-creative": false
