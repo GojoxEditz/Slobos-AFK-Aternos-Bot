@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GobiOp.aternos.me",
+    "ip": "devario.aternos.host",
     "port": 40810,
     "version": "",
     "try-creative": false
